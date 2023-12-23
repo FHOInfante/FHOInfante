@@ -4,7 +4,7 @@ About me
 - 🔭 I’m currently working on nothing as of right now
 - 🌱 I’m currently learning Computer Science in Mapua Malayan Colleges Laguna
 - 👯 I’m looking to collaborate on game development projects in the future
-- 🤔 I’m looking for help with fiding a reason to keep going
+- 🤔 I’m looking for help with finding a reason to keep going
 - 💬 Ask me about what my current mental state is
 - 📫 How to reach me: email through finfante897@gmail.com
 - 😄 Pronouns: Him/He
