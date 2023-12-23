@@ -8,7 +8,7 @@ About me
 - 💬 Ask me about what my current mental state is
 - 📫 How to reach me: email through finfante897@gmail.com
 - 😄 Pronouns: Electric Fan
-- ⚡ Fun fact: Im slow
+- ⚡ Fun fact: Im slow af
 
 Cheat Sheet:
 1. git add [file] - add a file as it looks now to your next commit (stage)
