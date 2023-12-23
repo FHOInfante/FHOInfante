@@ -7,7 +7,7 @@ About me
 - 🤔 I’m looking for help with finding a reason to keep going
 - 💬 Ask me about what my current mental state is
 - 📫 How to reach me: email through finfante897@gmail.com
-- 😄 Pronouns: Him/He
+- 😄 Pronouns: Electric Fan
 - ⚡ Fun fact: Im slow
 
 Cheat Sheet:
